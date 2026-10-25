@@ -19,7 +19,8 @@
   </a>
 </p>
 
-<h3 align="center">Customer feedback, collected and understood.</h3>
+<h3 align="center">Ask the right questions.
+Act on every answer.</h3>
 
 <p align="center">
   Usertick asks short surveys on your site, in email, behind a link or on a QR code, collects every answer in one inbox and shows your team what people are saying.
